@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# User Profile App
+
+A responsive React application that displays team member profiles using reusable components and clean UI design.
+
+## Features
+- Component-based architecture
+- Props and state management
+- Responsive layout
+- Modern UI with hover effects
+- Static data rendering
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Run Locally
+```bash
+npm install
+npm run dev
+>>>>>>> 7df3a6087e0d3d80e9ff93c32cba5b4579a873ba
